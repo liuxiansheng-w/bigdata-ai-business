@@ -1,4 +1,4 @@
-![tableau日常应用可视化图形](../../image/bi-chart.jpg)
+![tableau日常应用可视化图形](../../image/bi-chart.png)
 ![tableau大屏可视化](../../image/1754536055606.png)
 
 

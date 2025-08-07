@@ -2,8 +2,9 @@
 数据源支持：输入文本数据、上传excel文件、SQL查询数据库
 可视化图形：折线图、柱状图、饼图、散点图、地图等20种
 效果：(数据为虚假数据)
-<!-- ![image.mp4](../../image/aaa.mp4)  -->
-<video src="../../image/aaa.mp4" controls></video>
+
+视频地址 ：https://github.com/liuxiansheng-w/bigdata-ai-business/blob/main/image/aaa.mp4
+<video src="https://github.com/liuxiansheng-w/bigdata-ai-business/blob/main/image/aaa.mp4" controls></video>
 
  
  # 复杂数据解析小助手
